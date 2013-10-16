@@ -8,5 +8,5 @@ A procedural dungeon generator made with Python and a really simple 2D represent
 * A random wall is selected, and a room is placed connected to that wall. If the new room collides with another room it gets discarded, and instead it tries to place hallway connecting the room from which we brached off of and the room with which we collided.
 * The previous step is repeated until there are no more available walls or there are enough rooms.
 
-I got it working as I intended, but I didn't develop it further. A code cleanup is much needed.
+I got it working as I intended, but I didn't develop it further. A code cleanup is much needed. Some samples of the maps generated can be seen [here](http://imgur.com/a/0Ey6i)
 
